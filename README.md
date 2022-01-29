@@ -1,2 +1,8 @@
-# lottie-package-example-Flutter
-a simple example about lottie package in Flutter
+## Lottie Package example - Flutter
+# ⚠️ Essential Packages 
+* lottie: ^1.2.1
+## Links
+* [My Socials](https://znap.link/CodeWithFlexz)
+* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
+* [Instagram](https://instagram.com/codewithflexz)
+
